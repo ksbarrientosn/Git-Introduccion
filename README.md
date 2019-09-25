@@ -2,7 +2,7 @@
 Proyecto para aprender Git
 
 ## Introducción
-php
+``` php
 <?php phpinfo();?>
-
+```
 ## Descripcion
