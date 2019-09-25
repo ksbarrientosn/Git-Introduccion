@@ -1,8 +1,8 @@
 # Proyecto-git
 Proyecto para aprender Git
 
-##Introducción
+## Introducción
 ´´´php
 <?php phpinfo();?>
 ´´´
-##Descripcion
+## Descripcion
